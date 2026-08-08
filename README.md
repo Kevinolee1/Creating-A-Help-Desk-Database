@@ -16,7 +16,8 @@ Click next
 Click next
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/48681dfb3b763319938ffa0685c2fc3899dd9739/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20012028.png)
 Click Next and wait into it finish installing
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/a1d0ff108cf5cd5020c19960e304e9e40c4ea106/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20013158.png)
+Click allow
 ![Image alt]()
 ![Image alt]()
 ![Image alt]()
