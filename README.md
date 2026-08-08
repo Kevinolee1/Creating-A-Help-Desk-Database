@@ -13,6 +13,7 @@ click next
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/8fc611b45c32663bb220cdeac0790683a10adc59/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20012002.png)
 Click next
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/8fc611b45c32663bb220cdeac0790683a10adc59/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20012002.png)
+Click next
 ![Image alt]()
 ![Image alt]()
 ![Image alt]()
