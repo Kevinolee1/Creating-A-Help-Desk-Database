@@ -8,7 +8,8 @@ Go www.apachefriends.org and download version 8.2.12
 Click ok 
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/ad516c89fe4a52b7a7ec5caf7be96a377c0c279f/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20011823.png)
 Click next
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/7415f720c5c2c3395f3ed147665ec876dfb004b9/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20011858.png)
+click next
 ![Image alt]()
 ![Image alt]()
 ![Image alt]()
