@@ -4,3 +4,19 @@ An osTicket database is the central storage system that keeps track of informati
 Go www.apachefriends.org and download version 8.2.12
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/28be55b00ada41de8918abd7fb9b74a0f312c561/Screenshot%202026-08-08%20173408.png)
  Open the file
+![Iamge alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/a2fca50b4e8d38eee55366f6f1ab63acfcdff432/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20011736.png)
+Click Yes on do you and the app to make changes 
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
+![Image alt]()
