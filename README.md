@@ -10,7 +10,8 @@ Click ok
 Click next
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/7415f720c5c2c3395f3ed147665ec876dfb004b9/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20011858.png)
 click next
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/8fc611b45c32663bb220cdeac0790683a10adc59/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20012002.png)
+Click next
 ![Image alt]()
 ![Image alt]()
 ![Image alt]()
