@@ -26,9 +26,5 @@ Click finish
 click on Apache config and click on php (php.ini)
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/4a4d1ded458f7c62d6991f438f93dea6ba75aee1/Create%20the%20osTicket%20database/Screenshot%202026-08-08%20024203.png)
  If you find ;extension=intl and ;extension=gd, remove the (;) to change them to extension=gd, extension=gd. Click file and click save
-
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/bdf284539e3116aee3470698b8f41ea6ca0c18ab/Create%20the%20osTicket%20database/Screenshot%202026-08-08%20023955.png)
+Open XAMPP Control Panel and start: Apache, and MySQL
