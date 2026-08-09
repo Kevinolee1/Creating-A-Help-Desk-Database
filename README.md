@@ -20,7 +20,9 @@ Click Next and wait into it finish installing
 Click allow
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/b0f9ff0b87b8286512428b1c35a968d31c4a208d/Create%20the%20osTicket%20database/Screenshot%202026-08-06%20013225.png)
 Click finish
+
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/84716697d5360351149aeb224ee8dce5ec1d2cf1/Create%20the%20osTicket%20database/Screenshot%202026-08-08%20023955.png)
+
 click on Apache config and click on php (php.ini)
 ![Image alt]()
 ![Image alt]()
