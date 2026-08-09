@@ -24,7 +24,9 @@ Click finish
 ![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/84716697d5360351149aeb224ee8dce5ec1d2cf1/Create%20the%20osTicket%20database/Screenshot%202026-08-08%20023955.png)
 
 click on Apache config and click on php (php.ini)
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-A-Help-Desk-Database/blob/4a4d1ded458f7c62d6991f438f93dea6ba75aee1/Create%20the%20osTicket%20database/Screenshot%202026-08-08%20024203.png)
+ If you find ;extension=intl and ;extension=gd, remove the (;) to change them to extension=gd, extension=gd
+
 ![Image alt]()
 ![Image alt]()
 ![Image alt]()
